@@ -5,7 +5,7 @@
 🐻 A software development and technical management🎯 from China.
 - 🌱 I’m currently working on C++, macOS, Go, Python and Java.
 - 📫 How to reach me: You may follow me on my blog.
-- 📝 [Resume](https://airingursb.github.io/resume/2024.html) (Updated 2024/06)
+- 📝 [Resume]() (Updated 2024/06)
   
 <!--
 **Languages:**  
